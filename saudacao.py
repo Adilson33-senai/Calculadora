@@ -3,3 +3,6 @@ def saudacao(nome):
 
 
 print saudacao('adilson')
+
+def despedida(nome):
+return f"Até mais, {nome}!"
